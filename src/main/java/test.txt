@@ -1,1 +1,2 @@
-Hi this is my first project
+Hi this is my first project.
+Second project yet to create.
